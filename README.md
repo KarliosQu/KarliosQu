@@ -35,6 +35,6 @@
 
 <li>
 <a href="https://rust-lang.zulipchat.com/#user/671133" target="_blank">
-<img src="https://img.shields.io/badge/Zulip: Karlios Qu-%2300acee.svg?color=1E90FF&style=for-the-badge&logo=github&logoColor=white" style="margin-bottom: 5px;" />
+<img src="https://img.shields.io/badge/Zulip: Karlios Qu-%2300acee.svg?color=6492FE&style=for-the-badge&logo=zulip&logoColor=white" style="margin-bottom: 5px;" />
 </a>
 </li>
