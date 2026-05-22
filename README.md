@@ -4,19 +4,13 @@
 
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h1 style="display: inline-block">Hi 👋, I'm Karlios.</h1></summary>
+    <summary><h1 style="display: inline-block">I'm Karlios.</h1></summary>
   </ul>
 </div>
 
 <img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width=32px> **About me**
-
-- 🔭 A programmer, a gamer, a model maker, a person searching for fun. 
-
-- 🌱 I’m currently learning  **🦀Rust**,  **📑Algorithm** , **💻System**.
-
- 
 
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width=32px> Feel free to reach me out
